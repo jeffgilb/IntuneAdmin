@@ -7,10 +7,16 @@
     scheduled task issues (disabled or not found).
 
 .EXAMPLE
-    .\Autopatch_detection.ps1
+    .\Autopatch_Detection.ps1
 
 .NOTES
-    
+    Author: Jeff Gilbert
+    Created: 12.10.2025
+    Version: 1.0
+    File: Autopatch_Detection.ps1
+    Location: https://github.com/jeffgilb/IntuneAdmin/blob/main/Remediations/AutopatchReadiness/Autopatch_Detection.ps1
+        - PowerShell 5.1 or later
+        - Device enrolled in Intune
 #>
 
 #----------------------------------------------------- Script Variables -----------------------------------------------------

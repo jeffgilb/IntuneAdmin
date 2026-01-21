@@ -21,8 +21,9 @@
     Created: 12.10.2025
     Version: 1.0
     File: Autopatch_Remediation.ps1
-    Location: GitHub\IntuneRemediations\autopatchFullRemediation
+    Location: https://github.com/jeffgilb/IntuneAdmin/blob/main/Remediations/AutopatchReadiness/Autopatch_Remediation.ps1
         - PowerShell 5.1 or later
+        - Administrative permissions required
         - Device enrolled in Intune
 
 .LINK
